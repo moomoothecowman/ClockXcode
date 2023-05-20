@@ -17,6 +17,7 @@
 		2FD6D06A29D4EF3C00A22E4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FD6D06929D4EF3C00A22E4C /* Assets.xcassets */; };
 		2FD6D06D29D4EF3C00A22E4C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FD6D06C29D4EF3C00A22E4C /* Preview Assets.xcassets */; };
 		49B04FF229E1E02600F429CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49B04FF029E1E02600F429CD /* Main.storyboard */; };
+		49FDAD6229F1DC9B00EC481E /* TimerSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FDAD6129F1DC9B00EC481E /* TimerSelectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		2FD6D06929D4EF3C00A22E4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FD6D06C29D4EF3C00A22E4C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		49B04FF129E1E02600F429CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		49FDAD6129F1DC9B00EC481E /* TimerSelectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerSelectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				2FD6D05429D4EED500A22E4C /* Assets.xcassets */,
 				2FD6D05629D4EED500A22E4C /* LaunchScreen.storyboard */,
 				2FD6D05929D4EED500A22E4C /* Info.plist */,
+				49FDAD6129F1DC9B00EC481E /* TimerSelectViewController.swift */,
 			);
 			path = Clock;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				2FD6D05029D4EED200A22E4C /* ViewController.swift in Sources */,
 				2FD6D04C29D4EED200A22E4C /* AppDelegate.swift in Sources */,
+				49FDAD6229F1DC9B00EC481E /* TimerSelectViewController.swift in Sources */,
 				2FD6D04E29D4EED200A22E4C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
